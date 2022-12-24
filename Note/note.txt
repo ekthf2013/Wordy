@@ -1,0 +1,11 @@
+단어/뜻
+bell/종
+cat/고양이
+dog/개
+hat/모자
+key/열쇠
+map/지도
+pig/돼지
+rabbit/토끼
+sun/태양
+water/물
